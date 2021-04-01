@@ -12,3 +12,9 @@
 | Regine Haschka-Helmer | Energine        | Director Market Strategy  | Regine Haschka-Helmer- Director Market Strategy | 2021-03-25   |
 | Rajiv Shah            | rajivshah3      | DevOps Engineer           | Rajiv Shah - DevOps Engineer                    | 2021-03-25   |
 | Antonio Nardella      | antonionardella | Community Manager         | Antonio Nardella - Community Manager            | 2021-03-25   |
+| Igor R Nilsen         | igorrnilsen     | Motion designer           | Igor R Nilsen-Motion designer                   | 2021-04-01   |
+| Tobias Willhauck      | WillHawkMuc     | Senior Product Manager    | Tobias Willhauck-Senior Product Manager         | 2021-04-01   |
+| Martyn Janes          | martynjanes     | Senior Developer          | Martyn Janes-Senior Developer                   | 2021-04-01   |
+| Thabata Dias          | TSDias2         | Social Media Manager      | Thabata Dias-Social Media Manager               | 2021-04-01   |
+
+
